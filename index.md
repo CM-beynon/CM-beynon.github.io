@@ -1,4 +1,6 @@
-Caleb Beynon
+<p align="center">
+    Caleb Beynon
+</p>
 
 204-588-4677 | beynonc@myumanitoba.ca | github.com/CM-beynon
 
