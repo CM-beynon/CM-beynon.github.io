@@ -31,7 +31,6 @@ ________________________________________
 - Refactored logic surrounding costing data for transport orders to ensure that all cost elements were accounted for between layers of costing logic and the cost totals were accurate.
 - Audited data models with SQL Server Analysis Services (SSAS) and modified them to pull in new data for reports and fix issues with previous queries.
 - Managed and maintained statistical Power BI reports, to improve usability.
-
 - Cleaned up SQL queries, Power BI measures, and column names to standardize data across all reports.
 
 <p style="text-align:left;">
@@ -42,7 +41,6 @@ ________________________________________
 </p>
 
 - Documented product testing processes, ensuring that analysts would have excellent documentation to perform regression testing.
-
 - Executed tests for the stories in each release, to guarantee that all defects were found and resolved before release dates.
 
 
@@ -58,9 +56,7 @@ ________________________________________
 </p>
 
 - Moderating University of Manitoba Computer Science Discord server, so that Computer Science students have a space to meet other students and ask questions about the degree, during remote classes.
-
 - Managing the CSSA’s finances to ensure that expenses for events are kept within the budget.
-
 - Organizing and hosting events to compliment Computer Science students’ degrees with extracurricular activities.
 
 <p style="text-align:left;">
@@ -109,7 +105,6 @@ ________________________________________
 </p>
 
 - Developed an Android application with Android Studio, using Java, with a team of 4 other students.
-
 - Created and managed the database and flow of data between layers of the project to ensure that data was being saved and passed between the views of the application.
 
 <p style="text-align:left;">
@@ -120,7 +115,6 @@ ________________________________________
 </p>
 
 - Designed a food ordering website using JavaScript, HTML, and CSS, with a team of 4 other students.
-
 - Ensured that all parts of the website were following standard design principles so that the resulting website would feel like a cohesive product and be easy for users to interact with.
 
 Technical Skills
