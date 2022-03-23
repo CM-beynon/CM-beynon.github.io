@@ -29,9 +29,7 @@ ________________________________________
 </p>
 
 - Refactored logic surrounding costing data for transport orders to ensure that all cost elements were accounted for between layers of costing logic and the cost totals were accurate.
-
 - Audited data models with SQL Server Analysis Services (SSAS) and modified them to pull in new data for reports and fix issues with previous queries.
-
 - Managed and maintained statistical Power BI reports, to improve usability.
 
 - Cleaned up SQL queries, Power BI measures, and column names to standardize data across all reports.
