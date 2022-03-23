@@ -4,7 +4,9 @@
 <p align="center">
     204-588-4677 | beynonc@myumanitoba.ca | github.com/CM-beynon
 </p>
-Education  ________________________________________
+Education
+
+________________________________________
 
 <p style="text-align:left;">
     Bachelor of Computer Science Honours (Co-op Option) | University of Manitoba
