@@ -20,7 +20,7 @@ ________________________________________
     <span style="float:right;">
         Fall 2018, Winter 2020
     </span>
-</p>
+  </p>
 
 Relevant Experience
 
