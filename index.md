@@ -15,7 +15,7 @@ ________________________________________
     </span>
 </p>
 
-•	Dean’s Honour List									  Fall 2018, Winter 2020
+- Dean’s Honour List									  Fall 2018, Winter 2020
 
 Relevant Experience
 
