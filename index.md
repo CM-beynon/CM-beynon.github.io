@@ -4,6 +4,19 @@
 <p align="center">
     204-588-4677 | beynonc@myumanitoba.ca | github.com/CM-beynon
 </p>
+Education
+
+________________________________________
+
+<p style="text-align:left;">
+    Bachelor of Computer Science Honours (Co-op Option) | University of Manitoba
+    <span style="float:right;">
+        September 2018-August 2023
+    </span>
+</p>
+
+•	Dean’s Honour List									  Fall 2018, Winter 2020
+
 Relevant Experience
 
 ________________________________________
@@ -117,16 +130,3 @@ Technical Skills
 ________________________________________
 
 Java	SQL	C / C++	C#	SSAS	Git	Android	Studio	Unity	JUnit	Espresso
-
-Education
-
-________________________________________
-
-<p style="text-align:left;">
-    Bachelor of Computer Science Honours (Co-op Option) | University of Manitoba
-    <span style="float:right;">
-        September 2018-August 2023
-    </span>
-</p>
-
-•	Dean’s Honour List									  Fall 2018, Winter 2020
