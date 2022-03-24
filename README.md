@@ -22,4 +22,6 @@ You can use the following <a href="https://www.markdownguide.org/getting-started
 ### Adding Your Resume
 
 
+![Resume](Resume.png)
+
 ### Adding a config File
