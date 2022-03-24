@@ -8,13 +8,12 @@
 </p>
 
 ## Education
-<h4>
-    <p style="text-align:left;">
-        Bachelor of Computer Science Honours (Co-op Option) | University of Manitoba
-        <span style="float:right;">
-            September 2018-August 2023
-        </span>
-    </p>
+
+<h4 style="text-align:left;">
+    Bachelor of Computer Science Honours (Co-op Option) | University of Manitoba
+    <span style="float:right;">
+        September 2018-August 2023
+    </span>
 </h4>
 
 - <p style="text-align:left;">
