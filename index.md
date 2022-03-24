@@ -1,5 +1,5 @@
-# <p align="center" style="font-size:100">
-    Caleb Beynon
+<p align="center" style="font-size:100">
+    <h1> Caleb Beynon </h1>
 </p>
 <p align="center">
     204-588-4677 | beynonc@myumanitoba.ca | github.com/CM-beynon
