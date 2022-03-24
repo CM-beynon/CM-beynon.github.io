@@ -9,8 +9,6 @@
 
 ## Education
 
-________________________________________
-
 <p style="text-align:left;">
     Bachelor of Computer Science Honours (Co-op Option) | University of Manitoba
     <span style="float:right;">
@@ -26,8 +24,6 @@ ________________________________________
   </p>
 
 ## Relevant Experience
-
-________________________________________
 
 <p style="text-align:left;">
     Technical Analyst (Co-op Work Term II) | Bison Transport
@@ -53,8 +49,6 @@ ________________________________________
 
 
 ## Community Involvement
-
-________________________________________
 
 <p style="text-align:left;">
     VP Internal - Computer Science Students Association (CSSA) | University of Manitoba
@@ -103,8 +97,6 @@ ________________________________________
 
 ## Academic Projects
 
-________________________________________
-
 <p style="text-align:left;">
     Android App - Student Life Simulator | Software Engineering
     <span style="float:right;">
@@ -126,7 +118,5 @@ ________________________________________
 - Ensured that all parts of the website were following standard design principles so that the resulting website would feel like a cohesive product and be easy for users to interact with.
 
 ## Technical Skills
-
-________________________________________
 
 Java	SQL	C / C++	C#	SSAS	Git	Android	Studio	Unity	JUnit	Espresso
