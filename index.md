@@ -1,11 +1,11 @@
-<p align="center" style="font-size:100">
+# <p align="center" style="font-size:100">
     Caleb Beynon
 </p>
 <p align="center">
     204-588-4677 | beynonc@myumanitoba.ca | github.com/CM-beynon
 </p>
 
-# Education
+## Education
 
 ________________________________________
 
@@ -23,7 +23,7 @@ ________________________________________
     </span>
   </p>
 
-# Relevant Experience
+## Relevant Experience
 
 ________________________________________
 
@@ -50,7 +50,7 @@ ________________________________________
 - Executed tests for the stories in each release, to guarantee that all defects were found and resolved before release dates.
 
 
-# Community Involvement
+## Community Involvement
 
 ________________________________________
 
@@ -99,7 +99,7 @@ ________________________________________
 
 - Designed the map and the collision logic with Unity, to ensure that interactable objects would work as desired.
 
-# Academic Projects
+## Academic Projects
 
 ________________________________________
 
@@ -123,7 +123,7 @@ ________________________________________
 - Designed a food ordering website using JavaScript, HTML, and CSS, with a team of 4 other students.
 - Ensured that all parts of the website were following standard design principles so that the resulting website would feel like a cohesive product and be easy for users to interact with.
 
-# Technical Skills
+## Technical Skills
 
 ________________________________________
 
