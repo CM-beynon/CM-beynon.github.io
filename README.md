@@ -27,8 +27,9 @@ You should have a resume formatted in Markdown prepared before following this tu
 - Select "Commit new file", and you will be brought back to the repository page.
 
 ### Adding a config File
+- Similarly to the previous section, you will need to select "Add file", then select "Create new file" from the dropdown.
+-
 
-![Resume](Resume.png)
 
 ## More Resources
 - You can use the following <a href="https://www.markdownguide.org/getting-started/">tutorial</a>, to learn more about Markdown.
