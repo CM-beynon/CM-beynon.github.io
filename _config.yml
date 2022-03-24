@@ -1,2 +1,3 @@
 title: Caleb Beynon
-theme: sharadcodes/jekyll-theme-serial-programmer #minima
+#theme: minima
+remote-theme: sharadcodes/jekyll-theme-serial-programmer
