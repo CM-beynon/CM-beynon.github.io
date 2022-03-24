@@ -119,4 +119,4 @@
 
 ## Technical Skills
 
-Java	SQL	C / C++	C#	SSAS	Git	Android	Studio	Unity	JUnit	Espresso
+Java | SQL | C / C++ | C# | SSAS | Git | Android | Studio | Unity | JUnit | Espresso

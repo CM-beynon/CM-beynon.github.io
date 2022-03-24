@@ -15,6 +15,7 @@ using GitHub Flavoured Markdown and Jekyll.
 
 ## Adding Your Resume
 
-## Adding config File
+
+## Adding a config File
 
 ##
