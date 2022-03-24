@@ -28,7 +28,12 @@ You should have a resume formatted in Markdown prepared before following this tu
 
 ### Adding a config File
 - Similarly to the previous section, you will need to select "Add file", then select "Create new file" from the dropdown.
--
+- Name this file "_config.yml".
+- Add the following text to the file "title: <Your Name>" this will replace the link at the top of your page to your name.
+- Then scroll to the bottom of the screen, enter a meaningful commit message like you did in the last section, and select "Commit new file".
+
+### Viewing Your Website
+To view your website, type <profileName>.github.io into the search bar, and you will be brought to your page. It should look something like the following image.
 ![Resume](Resume.png)
 
 ## More Resources
