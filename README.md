@@ -39,13 +39,15 @@ To view your website, type <profileName>.github.io into the search bar, and you 
 ## More Resources
 - You can use the following <a href="https://www.markdownguide.org/getting-started/">tutorial</a>, to learn more about Markdown.
 - You can read Etter's book on Modern Technical Writing <a href="https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS">here</a>.
-- If you want to add different themes to your GitHub pages webiste, this is an excellent <a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-jekyll-themes-html-layout">tutorial</a>.
+- If you want to add different themes to your GitHub pages website, this is an excellent <a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-jekyll-themes-html-layout">tutorial</a>.
 
 ## Authors and Acknowledgements
 Author: Caleb Beynon
 
 ## FAQ
-1.
-    -
-2.
-    -
+1. Why should I host my resume on GitHub pages?
+    - Hosting your resume on GitHub pages builds your online presence and brand. Having this presence makes you more visible to potential employers. Not only that but it also demonstrates that you have some technical skills in your field.
+2. How do I start using Jekyll?
+    - By default Jekyll is enabled for GitHub pages, so if you followed this tutorial, you don't need to do any setup.
+3. Why can I not see my resume when I go to my website?
+    - Ensure that your resume file is named index.md, and that it is located in the root directory of your repository. Any errors in this section can result in your resume not showing up on your resume.
