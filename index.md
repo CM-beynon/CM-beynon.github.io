@@ -16,12 +16,12 @@
     </span>
 </h4>
 
-- <p style="text-align:left;">
+- <h4 style="text-align:left;">
     Dean’s Honour List
     <span style="float:right;">
         Fall 2018, Winter 2020
     </span>
-  </p>
+  </h4>
 
 ## Relevant Experience
 
