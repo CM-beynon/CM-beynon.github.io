@@ -1,7 +1,7 @@
 # How to host your resume on GitHub pages
 
 This guide will walk you through how to host your own resume on GitHub pages,  
-using GitHub Flavored Markdown and Jekyll.
+using GitHub Flavoured Markdown and Jekyll.
 
 ## Getting Started with GitHub
 1. Creating an account
