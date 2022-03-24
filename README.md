@@ -4,7 +4,7 @@ using GitHub Flavoured Markdown and Jekyll.
 
 ## Getting Started with GitHub
 1. Creating an account
-- To create a GitHub account, follow this <a href="https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account">tutorial</a>.
+  - To create a GitHub account, follow this <a href="https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account">tutorial</a>.
 2. Creating your GitHub pages repository
 - Click on your GitHub profile picture from the top right of GitHub
 - Select "Your repositories" from the dropdown
